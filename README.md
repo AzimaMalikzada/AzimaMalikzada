@@ -2,6 +2,8 @@
 <h3 align="center">Mən Azərbaycandan olan frontend və backend developeriyəm.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"
 
+
+
 - 🌱 Hal hazırda **Stimul Tedris merkezinde tedris alıram.**
 - 👨‍💻 Bütün layihələrim buradadır [https://github.com/AzimaMalikzada](https://github.com/AzimaMalikzada)
 - 📫 Mənə necə müraciət etmək olar **melikzadeazima@gmail.com**
