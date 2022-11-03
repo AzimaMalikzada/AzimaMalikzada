@@ -10,7 +10,7 @@
 
 <h3 align="left">Mənimlə əlaqə qurun:</h3>
 <p align="left"><a href="https://codepen.io/@azimamalikzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@azimamalikzada" height="30" width="40"></a>
-<a href="https://instagram.com /azima_malikzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azima_malikzada" height="30" width="40"></a>
+<a href="https://www.instagram.com/azima_malikzada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azima_malikzada" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Dillər və Alətlər:</h3>
