@@ -1,7 +1,7 @@
 <div align="center">
 <h1 display="inline-block">Xoş gəlmisiniz...<img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 </div>
-<a href="https://www.youtube.com/channel/UCPZL6wmz8kQ_YoZUWjES3eA"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=EE33F7&background=2EFFA200&vCenter=true&width=435&lines=SetHub+Official" alt="Typing SVG" /></a>
+<a href="https://www.instagram.com/azima_malikzada/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0000&background=2EFFA200&vCenter=true&width=435&lines=SetHub+Official" alt="Typing SVG" /></a>
 <h3 align="center">Mən Azərbaycandan olan frontend və backend developeriyəm.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"
 
