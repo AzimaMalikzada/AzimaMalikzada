@@ -1,4 +1,3 @@
-<h1 align="center">Salam 👋, mən Əzimə Məlikzadə</h1>
 <div align="center">
 <h1 display="inline-block">Xoş gəlmisiniz...<img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 </div>
