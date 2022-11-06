@@ -1,4 +1,5 @@
 <h1 align="center">Salam 👋, mən Əzimə Məlikzadə</h1>
+<h1 display="inline-block">Hi < Guys / >! <img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 <h3 align="center">Mən Azərbaycandan olan frontend və backend developeriyəm.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"
 
