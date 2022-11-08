@@ -22,4 +22,4 @@
 <h3 align="left">Spotify:</h3>
  
   
-<span align="center"[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ijbvtug2nlc732nxye5nocvdoq)</span
+<h3 align="center"[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ijbvtug2nlc732nxye5nocvdoq)</h3>
