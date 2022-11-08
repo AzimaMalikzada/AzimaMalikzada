@@ -6,7 +6,7 @@
 
 
 
-- 🌱 Hal hazırda **Stimul Tedris merkezinde tehsil alıram.**
+- 🌹 Hal hazırda **Stimul Tedris merkezinde tehsil alıram.**
 - 👨‍💻 Bütün layihələrim buradadır [https://github.com/AzimaMalikzada](https://github.com/AzimaMalikzada)
 - 📫 Mənə necə müraciət etmək olar **melikzadeazima@gmail.com**
 
