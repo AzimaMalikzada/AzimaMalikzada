@@ -24,4 +24,4 @@
   
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ijbvtug2nlc732nxye5nocvdoq)
   
-<img align="right" alt="coding" width="1000" src="https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif">
+<img align="right" alt="coding" width="900" src="https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif">
