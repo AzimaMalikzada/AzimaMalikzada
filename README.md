@@ -2,7 +2,7 @@
 <h1 display="inline-block">Xoş gəlmisiniz...<img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=30&duration=2000&pause=500&color=CF467E&background=DC186200&center=true&width=455&height=80&lines=M%C9%99n+Azima+Malikzada..." alt="Typing SVG" /></a>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 
@@ -24,4 +24,4 @@
   
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ijbvtug2nlc732nxye5nocvdoq)
   
-<img align="right" alt="coding" width="100" src="https://cdn.dribbble.com/users/1129235/screenshots/3631654/working.gif"
+<img align="right" alt="coding" width="100" src="https://cdn.dribbble.com/users/1129235/screenshots/3631654/working.gif">
