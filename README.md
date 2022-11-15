@@ -16,7 +16,6 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png?w=360" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/"" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://p1.hiclipart.com/preview/951/574/485/react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends-png-clipart.jpg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
   
   
-<img align="right" alt="coding" width="500" src="https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif">
  
   
 
@@ -25,3 +24,4 @@
   
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ijbvtug2nlc732nxye5nocvdoq)
   
+<img align="center" alt="coding" width="500" src="https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif">
