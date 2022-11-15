@@ -2,7 +2,7 @@
 <h1 display="inline-block">Xoş gəlmisiniz...<img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=30&duration=2000&pause=500&color=CF467E&background=DC186200&center=true&width=455&height=80&lines=M%C9%99n+Azima+Malikzada..." alt="Typing SVG" /></a>
-<img align="right" alt="coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="560" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
 
