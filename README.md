@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 çççmmmçççççç
-
+mmm
 - 🌹 Hal hazırda **Stimul Tedris merkezinde tehsil alıram.**
 
 - 👨‍💻 Bütün layihələrim buradadır [https://github.com/AzimaMalikzada](https://github.com/AzimaMalikzada)
