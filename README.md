@@ -21,5 +21,5 @@
 <img align="right" alt="coding" width="1000" src="https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif">
  
  
- <h1> GitHub Stats : </h1>
+ <h2> GitHub Stats : </h2>
 
