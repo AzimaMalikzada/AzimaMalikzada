@@ -21,5 +21,5 @@
 <img align="right" alt="coding" width="1000" src="https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif">
  
  
- <h1> GitHub Stats : <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height = 40px width = 40px> </h1>
+ <h1> GitHub Stats : </h1>
 
