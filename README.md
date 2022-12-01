@@ -19,6 +19,7 @@
 
 <h3 align="left">Spotify:</h3>
  <img align="right" alt="GIF" height="400px" width="35%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ijbvtug2nlc732nxye5nocvdoq)
 
  
  
