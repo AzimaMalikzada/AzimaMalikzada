@@ -16,6 +16,6 @@
 <hr>
 
 <img align="right" alt="GIF" height="300px" width="35%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-<h3> Spotify🎧: 🎧 </h3>
+<h2> Spotify🎧:  </h2>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31dfwqrw7fblkhujw65oy25h4cji)
