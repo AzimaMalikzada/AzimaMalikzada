@@ -19,7 +19,3 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31dfwqrw7fblkhujw65oy25h4cji)
 <img align="right" alt="coding" width="1000" src="https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif">
- 
- 
- <h2> GitHub Stats : </h2>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
