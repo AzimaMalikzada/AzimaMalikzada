@@ -19,3 +19,9 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31dfwqrw7fblkhujw65oy25h4cji)
 <img align="right" alt="coding" width="1000" src="https://media.tenor.com/rf88Pwf2KcsAAAAC/css-ie.gif">
+ 
+ 
+ <h1> GitHub Stats : <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height = 40px width = 40px> </h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaviHamidov&show_icons=true&theme=prussian" />
+</div>
