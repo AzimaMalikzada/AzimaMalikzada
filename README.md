@@ -22,6 +22,4 @@
  
  
  <h1> GitHub Stats : <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height = 40px width = 40px> </h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaviHamidov&show_icons=true&theme=prussian" />
-</div>
+
