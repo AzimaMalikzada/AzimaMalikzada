@@ -16,7 +16,7 @@
  
  
  
-<h1>Spotify🎧:</h1>
+<h3>Spotify 🎧:</h3>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31dfwqrw7fblkhujw65oy25h4cji)
 
