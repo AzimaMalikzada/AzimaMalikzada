@@ -70,13 +70,9 @@
 </div>
 <img align="right" alt="GIF" height="300px" width="35%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 <div align="center">
-  <br>
-<br>
 
 <h1 display="inline-block">Spotify,,,<img height = 40px width = 40px src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"></h1>
 </div>
-<br>
-<br>
 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ijbvtug2nlc732nxye5nocvdoq)
