@@ -14,6 +14,8 @@
 
 
  <div>
+<img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+ 
         <h2> Dillər və Alətlər <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
     </div>
     <div>
@@ -64,14 +66,11 @@
         </table>
     </div>
 </div>
-<img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
 <h2> Spotify : </h2>
-<img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ijbvtug2nlc732nxye5nocvdoq)
-<img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
  
  
