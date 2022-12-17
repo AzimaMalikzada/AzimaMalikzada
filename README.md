@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-<h1 display="inline-block">Dillər və Alətlər...<img height = 40px width = 40px src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"></h1>
+<h1>Dillər və Alətlər...<img height = 40px width = 40px src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"></h1>
 </div>
 <img align="right" alt="coding" width="390" height="270" src="https://media.tenor.com/SoBzDkrJuNUAAAAC/cat-hack.gif">
 
