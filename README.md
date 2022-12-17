@@ -5,9 +5,9 @@
 <img align="right" alt="coding" width="470" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🐼 Adım Əzimə Məlikzadədir,18 yaşım var.
-- ⛪️ Rabitə və İnformasiyalar Texnologiyaları üzrə Bakı dövlət pese təhsil mərkəzini bititmisemş 
+- ⛪️ Rabitə və İnformasiya Texnologiyaları üzrə Bakı dövlət Peşə təhsil mərkəzini bitirmişəm.
 - 📫 Mənə necə müraciət etmək olar?  **melikzadeazima@gmail.com**
--  🌹 Hal-hazırda Stimul Tedris merkezinde tehsil alıram.
+- 🌹 Hal-hazırda Stimul Tedris merkezinde tehsil alıram.
 - 👨‍💻 Bütün layihələrim buradadır.   https://github.com/AzimaMalikzada
 - 📫 Mənə necə müraciət etmək olar?  **melikzadeazima@gmail.com**
 - kdmc
