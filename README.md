@@ -2,7 +2,7 @@
 <h1 display="inline-block">Xoş gəlmisiniz...<img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tahoma&weight=500&size=25&duration=1300&pause=800&color=EB108D&width=500&lines=Frontend+v%C9%99+Backend+deweloperiy%C9%99m." alt="Typing SVG" /></a>
-<img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🌹 Hal-hazırda Stimul Tedris merkezinde tehsil alıram.
 - 👨‍💻 Bütün layihələrim buradadır.   https://github.com/AzimaMalikzada
@@ -10,7 +10,7 @@
 
 <h2 align="left"> Mənimlə əlaqə qurun: </h2>
 <p align="left"><a href="https://discord.com/channels/@me" target="blank"> <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" alt="azima_malikzada" height="35" width="35"> </a> <a href="https://www.instagram.com/azima_malikzada/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azima_malikzada" height="30" width="40"> </a> <a href="https://www.linkedin.com/in/ezime-melikzade-191247256/" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733561.png?w=360" alt="azima_malikzada" height="30" width="30"> </a> <a href="https://codepen.io/Malikzada" target="blank"><img align="center" src="https://www.svgrepo.com/show/332024/codepen-square.svg" alt="@azimamalikzada" height="45" width="45"></a><a href="https://twitter.com/MalikzadaAzima" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="@azimamalikzada" height="45" width="45"></a></p>
-<img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <div>
 
 <h2> Dillər və Alətlər <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
