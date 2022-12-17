@@ -13,9 +13,6 @@
 - 
 - kmdkcm
 - mdkckd
-- kdmckmd
-- dkcmdkmkm
-- kmkmm
 
 <h1 align="left"> Mənimlə əlaqə qurun...<img height = 50px width = 50px src = "https://thumbs.gfycat.com/CelebratedAlienatedChinesecrocodilelizard-size_restricted.gif"></h1>
 <p align="left"><a href="https://discord.com/channels/@me" target="blank"> <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" alt="azima_malikzada" height="35" width="35"> </a> <a href="https://www.instagram.com/azima_malikzada/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azima_malikzada" height="30" width="40"> </a> <a href="https://www.linkedin.com/in/ezime-melikzade-191247256/" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733561.png?w=360" alt="azima_malikzada" height="30" width="30"> </a> <a href="https://codepen.io/Malikzada" target="blank"><img align="center" src="https://www.svgrepo.com/show/332024/codepen-square.svg" alt="@azimamalikzada" height="45" width="45"></a><a href="https://twitter.com/MalikzadaAzima" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="@azimamalikzada" height="45" width="45"></a></p>
