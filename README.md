@@ -49,7 +49,6 @@
                         <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png"                                  alt="sqlserver" width="60" height="40"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"                                   width="60" height="40"/>
                         <img src="https://user-images.githubusercontent.com/81612480/170155385-a4f08eaf-3476-4c57-82a9-6a6488ab36c6.png" width="40" height="40"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/170155830-0824385a-72de-4794-a3dd-73c0f81957e4.png" width="40" height="40"/>
                     </td>
                   </tr>
                   <tr>
