@@ -55,14 +55,10 @@
                     <th>Tools</th>
                       <td>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
-                         <img src ="https://user-images.githubusercontent.com/81612480/170158125-06d02884-224c-49a7-a455-8877279389f2.jpg" width="40" height="40" />
+                        <img src ="https://user-images.githubusercontent.com/81612480/170158125-06d02884-224c-49a7-a455-8877279389f2.jpg" width="40" height="40" />
                         <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40"                            height="40"/>   
                         <img src ="https://user-images.githubusercontent.com/81612480/170158610-2101eafd-4fe0-4aa3-988d-3ed070216926.png" width="40" height="40" />
-                        <img src="https://www.capgemini.com/de-de/wp-content/uploads/sites/5/2019/09/VMware_logo_gry_RGB_300dpi.jpg" width="80" height="40" />
-                        <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="80" height="40" />
-                        <img src="https://user-images.githubusercontent.com/81612480/170480203-60c67047-34c5-4254-8b61-93959d793b60.png" width="60" height="50" />
-                        <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="60" height="50" />
-                    </td>
+                        </td>
                   </tr>
             </tbody>
         </table>
