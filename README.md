@@ -6,11 +6,11 @@
 
 - 🐼 Adım Əzimə Məlikzadədir,18 yaşım var.
 - ⛪️ Rabitə və İnformasiya Texnologiyaları üzrə Bakı dövlət Peşə təhsil mərkəzini bitirmişəm.
-- 📫 Mənə necə müraciət etmək olar?  **melikzadeazima@gmail.com**
-- 🌹 Hal-hazırda Stimul Tedris merkezinde tehsil alıram.
+- 📫 Full stack deweloperem.
+- 🌹  Hal-hazırda Stimul Tedris merkezinde tehsil alıram.
 - 👨‍💻 Bütün layihələrim buradadır.   https://github.com/AzimaMalikzada
 - 📫 Mənə necə müraciət etmək olar?  **melikzadeazima@gmail.com**
-- kdmc
+- 
 - kmdkcm
 - mdkckd
 - kdmckmd
