@@ -32,7 +32,7 @@
 
 
   <div>
-        <table border="4" width="70%" cellpadding="150" cellspacing="150">
+        <table border="2" width="70%" cellpadding="300" cellspacing="300">
             <thead>
               <tr>
                 <th></th>
