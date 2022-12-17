@@ -68,9 +68,14 @@
         </table>
     </div>
 </div>
+
 <img align="right" alt="GIF" height="300px" width="35%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+
 <div align="left">
 <h1 display="inline-block">Spotify...<img height = 50px width = 50px src = "https://i.pinimg.com/originals/a5/78/ac/a578ace0baf2e25071a61ae8b9cc5e6c.gif"></h1>
 </div>
+
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ijbvtug2nlc732nxye5nocvdoq)
+
+
 
