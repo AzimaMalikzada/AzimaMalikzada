@@ -15,11 +15,8 @@
 <br>
 
 <div align="center">
-<h1 display="inline-block">Dillər və Alətlər<img height = 40px width = 50px src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"></h1>
+<h1 display="inline-block">Dillər və Alətlər<img height = 40px width = 40px src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"></h1>
 </div>
-<div>
-<h2> Dillər və Alətlər <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
-    </div>
     <div>
         <table border="4" width="70%" cellpadding="70" cellspacing="70">
             <thead>
