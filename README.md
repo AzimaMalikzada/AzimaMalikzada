@@ -68,15 +68,6 @@
         </table>
     </div>
 </div>
-<br>
-<br>
-<br>
-<br>
-
-<img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
-
-
 <h2> Spotify : </h2>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ijbvtug2nlc732nxye5nocvdoq)
