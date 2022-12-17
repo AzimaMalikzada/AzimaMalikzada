@@ -15,9 +15,6 @@
 
  <div>
         <h2> Dillər və Alətlər <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
-<img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
- 
-
     </div>
     <div>
         <table border="2" width="70%" cellpadding="10" cellspacing="10">
@@ -27,6 +24,8 @@
                 <th>Language/Tools</th>
               </tr>
             </thead>
+         <img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
             <tbody>
                 <tr>
                     <th>Frontend</td>
