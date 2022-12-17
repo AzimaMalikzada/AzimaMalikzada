@@ -16,9 +16,6 @@
 <br>
 <br>
 <img align="right" alt="coding" width="390" height="270" src="https://media.tenor.com/SoBzDkrJuNUAAAAC/cat-hack.gif">
-<br>
-<br>
-<br>
 <p align="left">
 <a href="https://discord.com/channels/@me" target="blank"> <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" alt="azima_malikzada" height="35" width="35"> </a> 
   
