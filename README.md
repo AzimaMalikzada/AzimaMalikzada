@@ -23,9 +23,6 @@
 <a href="https://codepen.io/Malikzada" target="blank"><img align="center" src="https://www.svgrepo.com/show/332024/codepen-square.svg" alt="@azimamalikzada" height="45" width="45"></a>
   
 <a href="https://twitter.com/MalikzadaAzima" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="@azimamalikzada" height="45" width="45"></a></p>
-<br>
-<br>
-<br>
 
 <div align="left">
 <h1>Dillər və Alətlər...<img height = 40px width = 40px src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"></h1>
