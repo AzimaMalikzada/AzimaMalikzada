@@ -14,7 +14,7 @@
 <h2> Dillər və Alətlər <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
     </div>
     <div>
-        <table border="2" width="100%" cellpadding="10" cellspacing="10">
+        <table border="4" width="70%" cellpadding="10" cellspacing="10">
             <thead>
               <tr>
                 <th></th>
