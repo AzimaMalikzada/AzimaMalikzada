@@ -11,7 +11,6 @@
 - 👨‍💻 Bütün layihələrim buradadır.   https://github.com/AzimaMalikzada
 - 📫 Mənə necə müraciət etmək olar?  **melikzadeazima@gmail.com**
 - 💻 İnsdaqram hesabım.   https://www.instagram.com/azima_malikzada/
-<br>
 <h1 align="left"> Mənimlə əlaqə qurun...<img height = 50px width = 50px src = "https://thumbs.gfycat.com/CelebratedAlienatedChinesecrocodilelizard-size_restricted.gif"></h1>
 <br>
 <br>
