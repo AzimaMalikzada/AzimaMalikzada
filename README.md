@@ -2,7 +2,7 @@
 <h1 display="inline-block">Xoş gəlmisiniz...<img height = 40px width = 40px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tahoma&weight=500&size=25&duration=1300&pause=800&color=EB108D&width=500&lines=Frontend+v%C9%99+Backend+deweloperiy%C9%99m." alt="Typing SVG" /></a>
-<img align="right" alt="coding" width="480" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="470" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🌹 Hal-hazırda Stimul Tedris merkezinde tehsil alıram.
 - 👨‍💻 Bütün layihələrim buradadır.   https://github.com/AzimaMalikzada
