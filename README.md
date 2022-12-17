@@ -40,7 +40,6 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" width="40" height="40" />  
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" /> 
                         <img src="https://user-images.githubusercontent.com/81612480/170154517-40e63112-9249-4fb1-90f6-70ce35af9086.png" width="40" height="40" />
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" />
                         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
                     </td>
                   </tr>
