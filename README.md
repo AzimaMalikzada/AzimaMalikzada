@@ -46,27 +46,9 @@
                         <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png"                                  alt="sqlserver" width="60" height="40"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"                                   width="60" height="40"/>
                         <img src="https://user-images.githubusercontent.com/81612480/170155385-a4f08eaf-3476-4c57-82a9-6a6488ab36c6.png" width="40" height="40"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/170155830-0824385a-72de-4794-a3dd-73c0f81957e4.png" width="40" height="40"/>
                     </td>
                   </tr>
-                  <tr>
-                    <th>Cloud</td>
-                     <td>
-                        <img src="https://user-images.githubusercontent.com/81612480/170156579-7222c5ef-fd78-40e6-a79f-52ff47da973a.png" width="60" height="40"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/170156647-44127661-1e67-4e32-a70c-1579c08624d3.png" width="60" height="40"/>
-                    </td>
-                    </tr>
-                  <tr>
-                    <th>OS</td>
-                      <td>
-                        <img src ="https://i0.wp.com/blog.ncce.org/wp-content/uploads/2017/04/microsoft-windows-logo-vector-download.jpg?fit=512%2C512" width="40"                              height="40" />
-                        <img src ="https://user-images.githubusercontent.com/81612480/170157262-f02d2176-369b-4552-96e3-9e79bff9b0f9.jpg" width="40" height="40" />
-                        <img src ="https://www.ateamsystems.com/wp-content/uploads/2016/11/freebsd-logo.png" width="40" height="40" />
-                        <img src ="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/OS_Apple.png" width="40" height="40" />
-                        <img src ="https://user-images.githubusercontent.com/81612480/170157154-a7c13e18-f437-4e10-8ed3-8b10339482f5.png" width="40" height="40" />
-                    </td>
-                  </tr>
-                  <tr>
+                   <tr>
                     <th>Tools</th>
                       <td>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
