@@ -15,10 +15,6 @@
 - mdkckd
 - kdmckmd
 - dkcmdm
-- dkckdm
-- dkcmdkm
-- dkcmkdddmckd
-- 
 
 
 <br>
