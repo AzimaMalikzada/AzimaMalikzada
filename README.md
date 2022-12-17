@@ -7,8 +7,8 @@
 - 🐼 Adım Əzimə Məlikzadədir və sizinlə tanışlığıma çox şadam.
 - 👨‍💻 Bütün layihələrim buradadır.   https://github.com/AzimaMalikzada
 - 📫 Mənə necə müraciət etmək olar?  **melikzadeazima@gmail.com
-- 💌 Insdaqram hesabım.   https://www.instagram.com/azima_malikzada
-- 
+- 💌 Insdaqram hesabım.   https://www.instagram.com/azima_malikzada**
+
 <br>
 <br>
 <br>
