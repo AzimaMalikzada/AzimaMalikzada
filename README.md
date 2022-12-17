@@ -11,7 +11,7 @@
 <h2 align="left"> Mənimlə əlaqə qurun: </h2>
 <p align="left"><a href="https://discord.com/channels/@me" target="blank"> <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" alt="azima_malikzada" height="35" width="35"> </a> <a href="https://www.instagram.com/azima_malikzada/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azima_malikzada" height="30" width="40"> </a> <a href="https://www.linkedin.com/in/ezime-melikzade-191247256/" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733561.png?w=360" alt="azima_malikzada" height="30" width="30"> </a> <a href="https://codepen.io/Malikzada" target="blank"><img align="center" src="https://www.svgrepo.com/show/332024/codepen-square.svg" alt="@azimamalikzada" height="45" width="45"></a><a href="https://twitter.com/MalikzadaAzima" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="@azimamalikzada" height="45" width="45"></a></p>
  <div>
-        <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
+        <h2> Dillər və Alətlər <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
     </div>
     <div>
         <table border="2" width="70%" cellpadding="10" cellspacing="10">
@@ -30,11 +30,7 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" />
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
-                        <img src="https://user-images.githubusercontent.com/81612480/170154947-688736c7-2026-4a43-9633-ce5d0facae9e.png" width="40" height="40" />
-                        <img src="https://user-images.githubusercontent.com/81612480/170480034-7a192755-70ef-4d44-8fe3-dcef22f4869b.png" width="40" height="40" />
-                        <img src="https://user-images.githubusercontent.com/81612480/186396067-64cbc2e3-184e-4ae8-aa0f-0bd1b6b71c33.png" width="60" height="50" />
-                    </td>
+                      </td>
                  </tr>
                   <tr>
                     <th>Backend</td>
