@@ -5,10 +5,10 @@
 <img align="right" alt="coding" width="470" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🐼 Adım Əzimə Məlikzadədir,18 yaşım var.
-- ⛪️ Rabitə və İnformasiya Texnologiyaları üzrə Bakı dövlət Peşə təhsil mərkəzini bitirmişəm.
-- 📫 Full stack deweloperem.
+- 🏛 Rabitə və İnformasiya Texnologiyaları üzrə Bakı dövlət Peşə təhsil mərkəzini bitirmişəm.
+- 🧿 Full stack deweloperem.
 - 🌹  Hal-hazırda Stimul Tedris merkezinde tehsil alıram.
-- 👨‍💻 Bütün layihələrim buradadır.   https://github.com/AzimaMalikzada
+- 💎 Bütün layihələrim buradadır.   https://github.com/AzimaMalikzada
 - 📫 Mənə necə müraciət etmək olar?  **melikzadeazima@gmail.com**
 - 💻 İnsdaqram hesabım.   https://www.instagram.com/azima_malikzada/
 <h1 align="left"> Mənimlə əlaqə qurun...<img height = 50px width = 50px src = "https://thumbs.gfycat.com/CelebratedAlienatedChinesecrocodilelizard-size_restricted.gif"></h1>
