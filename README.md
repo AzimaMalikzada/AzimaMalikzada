@@ -10,7 +10,7 @@
 - 🌹  Hal-hazırda Stimul Tədris mərkəzində təhsil alıram.
 - 💎 Bütün layihələrim buradadır.   https://github.com/AzimaMalikzada
 - 📫 Mənə necə müraciət etmək olar?  **melikzadeazima@gmail.com**
-- 💻 İnstaqram hesabım.   https://www.instagram.com/azima_malikzada/
+- 💻 İnstagram hesabım.   https://www.instagram.com/azima_malikzada/
 <h1 align="left"> Mənimlə əlaqə qurun...<img height = 50px width = 50px src = "https://thumbs.gfycat.com/CelebratedAlienatedChinesecrocodilelizard-size_restricted.gif"></h1>
 
 <img align="right" alt="coding" width="390" height="270" src="https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif">
