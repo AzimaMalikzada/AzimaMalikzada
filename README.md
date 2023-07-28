@@ -6,7 +6,7 @@
 
 - 🐼 Adım Əzimə Məlikzadədir,19 yaşım var.
 - 🏛 Rabitə və İnformasiya Texnologiyaları üzrə Bakı dövlət Peşə təhsil mərkəzini bitirmişəm.
-- 🧿 Full stack deweloperəm.
+- 🧿 Full stack developerəm.
 - 🌹  Hal-hazırda Stimul Tədris mərkəzində təhsil alıram.
 - 💎 Bütün layihələrim buradadır.   https://github.com/AzimaMalikzada
 - 📫 Mənə necə müraciət etmək olar?  **melikzadeazima@gmail.com**
